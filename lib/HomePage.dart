@@ -135,7 +135,7 @@ class _HomePageState extends State<HomePage> {
                 // Handle navigation to signup page
               },
               child: Text(
-                'Sign Up here',
+                'Sign Up her',
                 style: TextStyle(
                   fontSize: 16,
                   fontWeight: FontWeight.bold,
